@@ -1,7 +1,7 @@
-this is a number guessing game 
-can be player single or multi player
-you have to just guesses the number which is generated randomly 
-the winner will be decided by who is having less number of guess
+This is a number guessing game 
+Can be player single or multi player
+You have to just guesses the number which is generated randomly 
+The winner will be decided by who is having less number of guess
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________-
 
 Guess the Number Game
